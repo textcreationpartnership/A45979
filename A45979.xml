@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the better securing the government by disarming papists</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45979</idno>
+            <idno type="STC">Wing I312</idno>
+            <idno type="STC">ESTC R475577</idno>
+            <idno type="EEBO-CITATION">18367658</idno>
+            <idno type="OCLC">ocm 18367658</idno>
+            <idno type="VID">107359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107359)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the better securing the government by disarming papists</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Ireland.</term>
+               <term>Loyalty oaths --  Ireland.</term>
+               <term>Ireland --  History --  1691-</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107359:1"/>
+            <p>AN ACT For the Better Securing the Govern<g ref="char:EOLhyphen"/>ment by Diſarming PAPISTS.</p>
+            <figure/>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Andrew Crook,</hi> Printer to the Kings Moſt Excellent Majeſty, on <hi>Ormonde-Key,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:107359:2"/>
+            <pb n="3" facs="tcp:107359:2"/>
+            <head>An Act for the better Securing the Government by Diſarming Papiſts.</head>
+            <p>FOR Preſerving the Publick Peace, and Quieting the Kingdom from all Dangers of Inſurrection and Rebellion for the Fu<g ref="char:EOLhyphen"/>ture.</p>
+            <p>Be it Enacted by the King's Moſt Excellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and Com<g ref="char:EOLhyphen"/>mons in this preſent Parliament Aſſembled; And by Authority of the ſame, That all Papiſts with<g ref="char:EOLhyphen"/>in this Kingdom of <hi>Ireland,</hi> ſhall before the Firſt Day of <hi>March</hi> next Enſuing, Diſcover and Deliver up to ſome Iuſtice or Iuſtices of the Peace, or to the Mayor, Bayliff, or Head Officer of the Coun<g ref="char:EOLhyphen"/>ty, City, Town Corporate, or place, Reſpectively, where ſuch Papiſt ſhall Dwell and Reſide, all their Arms, Armour and Ammunition of what kind ſoever the ſame be, which are in his or their Hands or Poſſeſſion, or in the hands of any other Perſon or Perſons in Truſt for them, or at their Diſpoſition, Notwithſtanding any Lycenſe or Per<g ref="char:EOLhyphen"/>miſſion for Keéping the ſame heretofore granted. And that from and after the ſaid Firſt Day of <hi>March,</hi> One Thouſand, Six Hundred, Ninety Five, it ſhall and may be Lawfull for any two or more Iuſtices of the Peace within the Limits of their Iurisdiction and Authority; And to all Mayors, Sheriffs, and Chief Officers of Cities and Towns Corporate in their Liberties by them<g ref="char:EOLhyphen"/>ſelves, or by Warrant or Warrants under their Hands and Seals, Reſpectively, from time to time,
+<pb n="4" facs="tcp:107359:3"/>
+to Search for, Seize, or Cauſe to be Searched for and Seized, and take into his or their Cuſto<g ref="char:EOLhyphen"/>dy all ſuch Arms, Armour and Ammunition as ſhall he Concealed in any Houſe, Lodging, or o<g ref="char:EOLhyphen"/>ther Places where they ſhall ſuſpect any ſuch Arms, Armour or Ammunition ſhall be Conceal<g ref="char:EOLhyphen"/>ed; And ſuch Arms, Armour and Ammunition ſo Taken or Seized, upon Search and otherwiſe, as aforeſaid, ſhall by the perſon or perſons ſo Re<g ref="char:EOLhyphen"/>ceiving, Taking and Seizing the ſame, be preſer<g ref="char:EOLhyphen"/>ved for the Vſe of His Majeſty, His Heirs and Succeſſors: And the ſaid perſons ſhall return a true and particular Account thereof to the Lord Deputy, or other Chief Governour or Governours of this Kingdom, for the time being, to the end the ſame may be brought into His Majeſties Stores of War, or be Diſpoſed of as he or they ſhall think fit.</p>
+            <p>Provided Nevertheleſs, That no ſuch Search or Searches ſhall be made in any ſuch Houſe, Houſes, or Lodgings, ſave only betweén the Ri<g ref="char:EOLhyphen"/>ſing and Setting of the Sun, other then in Ci<g ref="char:EOLhyphen"/>ties and their Suburbs, Towns Corporate, Mar<g ref="char:EOLhyphen"/>ket Towns, and Houſes of ſuch Cities and Towns, if it ſhall be ſo thought Neceſſary, and the War<g ref="char:EOLhyphen"/>rant or Warrants for that purpoſe do Direct and Appoint: And in Caſe ſuch Iuſtices of the Peace, Mayor, Soveraign, Bayliff, or other Chief Magiſtrate or Officer of any City or Town Corporate, after ſuch Search made, ſhall find Cauſe to ſuſpect that any Arms, Armour or Ammunition remain Concealed, and not Seized, as aforeſaid, they are hereby Reſpectively Impow<g ref="char:EOLhyphen"/>ered and Required to Cauſe ſuch perſon or perſons whom he or they ſhall ſuſpect to have Concealed the ſame to be brought before him or them, and
+<pb n="5" facs="tcp:107359:4"/>
+to be Examined upon his, her, or their Corpo<g ref="char:EOLhyphen"/>ral Oath concerning the ſame.</p>
+            <p>And be it further Enacted, by the Authority aforeſaid, That every ſuch Papiſt who ſhall have or keép any ſuch Arms, Armour or Ammuni<g ref="char:EOLhyphen"/>tion, who ſhall not diſcover and deliver up the ſame by the time aforeſaid; And every other Perſon or Perſons who wittingly or willingly ſhall have any ſuch Arms, Armour or Ammunition to the uſe of, or in Truſt for any ſuch Papiſt, Con<g ref="char:EOLhyphen"/>trary to the True Meaning and Intent hereof. And alſo Every ſuch Perſon or Perſons, who upon Demand or Search made for ſuch Arms, Armour or Ammunition, as aforeſaid, ſhall Re<g ref="char:EOLhyphen"/>fuſe to Declare and Manifeſt to the Iuſtice or Iuſtices of the Peace, Mayors, Bayliffs, Head Officers, or other Perſons Authorized and Im<g ref="char:EOLhyphen"/>powered for Seizing and Searching for all ſuch Arms, Armour and Ammunition in manner as aforeſaid, what Arms, Armour and Ammuniti<g ref="char:EOLhyphen"/>on they or any other to his knowledge, or with his privity have, or ſhall Lett, Hinder or Diſturb the Delivery thereof to any the ſaid Iuſtices of the Peace, or any other Perſon or Perſons Au<g ref="char:EOLhyphen"/>thorized by Warrant, as aforeſaid, to Search for, Take and Seize the ſame, and Every other Perſon and Perſons who ſhall Refuſe to make Diſcovery upon his, her, or their Oath, to be Adminiſtred by ſuch Iuſtices of the Peace, May<g ref="char:EOLhyphen"/>or, Bayliff, or other Chief Officer of any City, or Town Corporate concerning the Premiſſes, as aforeſaid, or being Summoned by Warrant under the Hands of two or more Iuſtices of the Peace, whereof Notice in Writing to be gi<g ref="char:EOLhyphen"/>ven to him, or her, or left at his or her V<g ref="char:EOLhyphen"/>ſual place of abode, ſhall without Reaſonable
+<pb n="6" facs="tcp:107359:5"/>
+Cauſe Refuſe or Neglect to appear before ſuch Iuſtices of the Peace, Mayors, Soveraigns, Bay<g ref="char:EOLhyphen"/>liffs, or other Chief Magiſtrates, as aforeſaid, to be Examined as aforeſaid, Every ſuch Perſon or Perſons ſo Offending, Contrary to this Statute in this behalf, ſhall Forfeit in manner following (That is to ſay) if ſuch Perſon or Perſons be a Peér or Peéreſs of this Realm, he, ſhe and they ſhall for the firſt Offence For<g ref="char:EOLhyphen"/>feit the Summ of One Hundred Pounds Ster<g ref="char:EOLhyphen"/>ling: And if ſuch perſon or perſons ſhall offend a ſecond time, Contrary to the True In<g ref="char:EOLhyphen"/>tent and Meaning thereof, then ſuch perſon or perſons ſhall for the ſecond Offence Incur the Penalty of a Perſon Attainted in a Premunire; And being thereof Convicted ſhall ſuffer Puniſh<g ref="char:EOLhyphen"/>ment accordingly. And if ſuch perſon or per<g ref="char:EOLhyphen"/>ſons Offending herein, Contrary to the true In<g ref="char:EOLhyphen"/>tent of this Act, ſhall be under the Degreé of a Peér or Peéreſs, then he, ſhe, or they ſo Of<g ref="char:EOLhyphen"/>fending ſhall for the firſt Offence, being thereof Lawfully Convicted upon any Indictment or In<g ref="char:EOLhyphen"/>formation to be Exhibited at the Aſſizes or Ge<g ref="char:EOLhyphen"/>neral-Quarter-Seſſions of the Peace, to be held for the County where ſuch Offence ſhall be Committed, Loſe and Forfeit the Summ of Thirty Pounds; And ſhall ſuffer Impriſon<g ref="char:EOLhyphen"/>ment by Order of the Iuſtices of Aſſize, at the Aſſizes, or Iuſtices of the Peace in their Ge<g ref="char:EOLhyphen"/>neral-Quarter-Seſſions of the Peace, without Bail or Mainprize for one Year; and from thenceforward untill he, ſhe, or they ſhall pay the Penalty aforeſaid. And if ſuch perſon or perſons ſhall Offend a ſecond time, Contrary to the true Intent and Meaning hereof, then ſuch perſon or perſons ſo Offending ſhall for
+<pb n="7" facs="tcp:107359:5"/>
+ſuch ſecond Offence, being Convicted of the Firſt Offence, Incurr and Suffer all the Pain and Pe<g ref="char:EOLhyphen"/>nalties of perſons Attainted in a Premunire, the ſaid Penalties and Summs of Money ſo to be For<g ref="char:EOLhyphen"/>feit, as aforeſaid, by ſuch Peér or Peéreſs, to be Recovered by Action of Debt, Bill, Plaint or Information in any of His Majeſties Courts of Record; In which ſaid Action of Debt, Bill, Plaint or Information, no Eſſoyne, Protection nor Wager of Law ſhall be allowed, nor more then one Imparlance granted; One Moye<g ref="char:EOLhyphen"/>ty thereof to be and go to the Vſe of His Ma<g ref="char:EOLhyphen"/>jeſty, His Heirs and Succeſſors; and the other Moyety to ſuch perſon or perſons who ſhall Sue for the ſame.</p>
+            <p>Provided always that this Act, or any thing therein Contained, ſhall not Extend or be Con<g ref="char:EOLhyphen"/>ſtrued to Extend to hinder or Reſtrain any No<g ref="char:EOLhyphen"/>bleman or Gentleman from Keéping or Vſing a Sword, and a Caſe of Piſtols, and a Gun for the Defence of his Houſe, or for Fowling, ſo as ſuch Nobleman or Gentleman before the ſaid Firſt Day of <hi>March,</hi> in the Year of Our Lord, One Thouſand, Six Hundred, Ninety Five, ſhall make proof to the ſatisfaction of the Lord Depu<g ref="char:EOLhyphen"/>ty, or other Chief Governor or Governors, and the Privy-Council of this Kingdom of <hi>Ireland,</hi> that he upon the Third Day of <hi>October,</hi> in the Year of Our Lord, One Thouſand, Six Hundred, Ninety One, was an Inhabitant or Reſident of <hi>Lymerick,</hi> or ſome other Garriſon then in the poſſeſſion of the <hi>Iriſh,</hi> or was then ſome Officer or Soldier then in Arms under a Commiſſion of the Late Ring <hi>James,</hi> or thoſe Authorized un<g ref="char:EOLhyphen"/>der him to grant the ſame in the Counties of <hi>Limerick, Clare, Kerry, Cork</hi> or <hi>Mayo,</hi> or un<g ref="char:EOLhyphen"/>der
+<pb n="8" facs="tcp:107359:6"/>
+their Protection in the ſaid Counties; or was then a Commiſſioned Officer in His Ma<g ref="char:EOLhyphen"/>jeſties Quarters belonging to the Iriſh Regi<g ref="char:EOLhyphen"/>ments then in being which were Treated with, not being then a Priſoner of War, nor having before that time taken Protection.; and that he has ſince Returned and Submitted to His Ma<g ref="char:EOLhyphen"/>jeſties Obedience, and ſhall alſo prove, as afore<g ref="char:EOLhyphen"/>ſaid, that he was upon the ſaid Third Day of <hi>October</hi> within this Kingdom, and ſo as ſuch Nobleman or Gentleman hath not any time ſince the ſaid Third Day of <hi>October,</hi> upon ten<g ref="char:EOLhyphen"/>der to him, Refuſed to take the Oath of Alle<g ref="char:EOLhyphen"/>giance Required to be Taken by an Act of Par<g ref="char:EOLhyphen"/>liament in <hi>England,</hi> made in the firſt Year of the Reign of His preſent Majeſty, and of the Late Queén <hi>MARY</hi> of Bleſſed Memory; and ſhall take the ſaid Oath when he ſhall be thereunto Required, or ſhall prove, as aforeſaid, that he was upon the One and Twentieth Day of <hi>July,</hi> which was in the Year of Our Lord, One Thouſand, Six Hundred, Ninety One, a Gentle<g ref="char:EOLhyphen"/>man of Eſtate then belonging to the Town and Garriſon of <hi>Galway;</hi> But that ſuch Nobleman or Gentleman, Reſpectively, ſo making proof, and being qualified, as aforeſaid, may Keép and Make uſe of a Sword, a Caſe of Piſtols and a Gun for defence of his Houſe, or for Fowling, in ſuch manner as he might have done in Caſe this Act had never beén Made, any thing herein Contained to the Contrary in any wiſe Not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <p>Provided always, That an Entry ſhall be made of ſuch proof, and that no Gratuity, Feé or Re<g ref="char:EOLhyphen"/>ward
+<pb n="9" facs="tcp:107359:7"/>
+whatſoever ſhall be taken by any perſon other then the Summ of One Shilling for the making ſuch proof, or for the Entry thereof. Provided always that no perſon ſhall be Con<g ref="char:EOLhyphen"/>victed or Incurr any penalty upon this Act for any Offence Committed Contrary thereto upon any Confeſſion or Diſcovery he or ſhe ſhall make, being Examined upon Oath, unleſs ſuch Offence ſhall be made out by other proof, any thing herein Contained to the Contrary Not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <p>Provided always that the Lord Deputy, or other Chief Governor or Governors, and Pri<g ref="char:EOLhyphen"/>vy Council of this Realm, for the time being, may by Order of Privy Council, at any time after the ſaid Firſt Day of <hi>March,</hi> One Thou<g ref="char:EOLhyphen"/>ſand, Six Hundred, Ninety Five, Lycenſe any perſon or perſons as he and they ſhall think fit to keép ſuch Arms as ſhall be particularly Ex<g ref="char:EOLhyphen"/>preſſed in ſuch Lycenſe, in as full and ample manner as ſuch Chief Governor or Govern<g ref="char:EOLhyphen"/>ors heretofore might have done before the Paſ<g ref="char:EOLhyphen"/>ſing of this preſent Act, Any thing herein Con<g ref="char:EOLhyphen"/>tained to the Contrary Notwithſtanding. Which Lycenſe ſhall be granted without any Gratui<g ref="char:EOLhyphen"/>ty, Feé or Reward, other then the Summ of One Shilling for the Writing thereof.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That from and after the End of this preſent Seſſions of Parliament, no perſon what<g ref="char:EOLhyphen"/>ſoever now, or at any time whatſoever, Exerciſing or uſing the Myſtery or Art of making any Locks or Barrels for Guns, Muſquets, Piſtols, or other Fire-Arms; or of making Swords, Ba<g ref="char:EOLhyphen"/>gonets,
+<pb n="10" facs="tcp:107359:8"/>
+Skeines, Knives, or other Weapons, ſhall take to Prentice, or Vſe, Receive or In<g ref="char:EOLhyphen"/>ſtruct as an Apprentice any Perſon of the Po<g ref="char:EOLhyphen"/>piſh Religion, on pain that Every Perſon ſo Of<g ref="char:EOLhyphen"/>fending in Entertaining ſuch Popiſh Perſon to be an Apprentice, or Vſing, Receiving, or In<g ref="char:EOLhyphen"/>ſtructing him as ſuch, ſhall for Every ſuch Of<g ref="char:EOLhyphen"/>fence Forfeit the Summ of Twenty Pounds to be Recovered by Bill, Plaint, or Information, in any of His Majeſties Courts of Record, wherein no Eſſoyne, Protection, or Wager of Law is to Allowed, nor more then one Im<g ref="char:EOLhyphen"/>parlance granted; The one Moyety of all ſuch Forfeitures to be to His Majeſty, His Heirs and Succeſſors, and the other Moyety to the Informer, or him or them that ſhall or will Sue for the ſame.</p>
+            <p>And moreover the Indenture of Apprenticeſhip, and all Bonds and Contracts to be made or Entred into, by Reaſon or Occaſion of any ſuch Popiſh Perſon being put to be an Apprentice, as aforeſaid, ſhall be void, and are hereby de<g ref="char:EOLhyphen"/>clared to be void, and Every ſuch perſon of the Popiſh Religion, who ſhall be hereafter put to be an Apprentice, Inſtructed Contrary to the true meaning of this Act, and who ſhall Ex<g ref="char:EOLhyphen"/>erciſe the ſaid Art or Myſtery, ſhall for Every ſuch Offence in Vſing or Exerciſing the ſaid Art or Myſtery, or any part thereof Forfeit the Summ of Twenty Pounds to be Sued for and Recovered as aforeſaid, to the Vſes before-men<g ref="char:EOLhyphen"/>tioned; And the Iuſtices of the Peace, May<g ref="char:EOLhyphen"/>ors, Soveraigns, and other Head Officers of Cities, Burroughs and Towns Corporate, Re<g ref="char:EOLhyphen"/>ſpectively, are hereby Authorized and Required to ſend for all Apprentices of ſuch Perſons Ex<g ref="char:EOLhyphen"/>erciſing
+<pb n="11" facs="tcp:107359:8"/>
+the Art and Myſtery aforeſaid, whom they ſhall ſuſpect, and ſhall tender to them the Oaths and Declaration following, to be by them Reſpectively taken and Subſcribed.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>I A. B do Sincerely Promiſe and Swear, That I will be Faithful, and bear True Allegiance to His Majeſty King WILLIAM.</p>
+                        <closer>
+                           <signed>So help me God.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>I A. B. Do Swear that I do from my Heart Abhorr, Deteſt and Abjure, as Im<g ref="char:EOLhyphen"/>pious and Heretical, That Damnable Do<g ref="char:EOLhyphen"/>ctrine and Poſition that Princes Excommuni<g ref="char:EOLhyphen"/>cated or Deprived by the Pope, or any Authority of the See of ROME, may be Depoſed or Murdered by their Subject, or any other whatſoever. And I do Declare that no Foreign Prince, Perſon, Prelate, State or Potentate, hath, or ought to have, any Ju<g ref="char:EOLhyphen"/>riſdiction, Power, Superiority, Preheminency, or Authority, Eccleſiaſtical or Spiritual within this Realm.</p>
+                        <closer>
+                           <signed>So help me God.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>I A. B. Do Solemnly and Sincerely in the Preſence of God, Profeſs, Teſtify and De<g ref="char:EOLhyphen"/>clare, That I do believe that in the Sacra<g ref="char:EOLhyphen"/>ment of the Lords-Supper, there is not any Tranſubſtantiation of the Elements of Bread
+<pb n="12" facs="tcp:107359:9"/>
+and Wine into the Body and Blood of Chriſt, at or after the Conſecration thereof, by any Perſon whatſoever; And that the Invoca<g ref="char:EOLhyphen"/>tion and Adoration of the Virgin MARY, or any other Saint, and the Sacrifice of the Maſs, as they are now Uſed in the Church of ROME, are Superſtitious and Idolatrous. And I do Solemnly in the preſence of God, Profeſs, Teſtify and Declare, That I do make this Declaration, and every part thereof, in the plain and Ordinary Senſe of the words Read unto me, as they are Commonly un<g ref="char:EOLhyphen"/>derſtood by Proteſtants, without any Evaſi<g ref="char:EOLhyphen"/>on, Equivocation, or Mental Reſervation what<g ref="char:EOLhyphen"/>ſoever, and without any Diſpenſation already granted me for this purpoſe, by the Pope, or any other Authority or Perſon whatſoever, or without any hope of any ſuch Diſpenſati<g ref="char:EOLhyphen"/>on from any Perſon or Authority whatſoever, or without believing that I am or can be ac<g ref="char:EOLhyphen"/>quitted before God or Man, or Abſolved from this Declaration, or any part thereof, although the Pope, or any other Perſon or Perſons, or Power whatſoever ſhould Diſpence with, or Annull the ſame, or Declare that it was Null and Void from the Beginning.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And the Refuſal of ſuch Perſon or Perſons to take the ſaid Oaths or Subſcribe the ſaid
+<pb n="13" facs="tcp:107359:10"/>
+Declaration ſhall be, and are hereby declared to be a Conviction of ſuch Perſons ſo Refuſing the ſame, of his being Guilty, as alſo of the Maſter of ſuch Apprentice, unleſs ſuch Maſter ſhall prove that ſuch Apprentice at the time of Entring his Service was known or Reputed to be of the Proteſtant Religion.</p>
+            <p>And be it further Enacted, That no Papiſt ſhall at any time from and after the Twentieth Day of <hi>January,</hi> One Thouſand, Six Hundred, Ninety Five, be Capable to have or keép in his Poſſeſſion, or in the Poſſeſſion of any other Per<g ref="char:EOLhyphen"/>ſon, to his Vſe, or at his Diſpoſition, any Horſe, Gelding or Mare, which ſhall be of the Value of Five Pounds, or more; And that if any Perſon, being of the Proteſtant Religion ſhall make Diſcovery upon Oath of any ſuch Horſe or Horſes to be in the poſſeſſion of ſuch Papiſt, or of any perſon in Truſt for him, to any two Iuſtices of the Peace, or to the Mayor, or o<g ref="char:EOLhyphen"/>ther Chief Magiſtrate of any City or Town Corporate, That ſuch Iuſtice of the Peace, Mayor, or other Chief Magiſtrate within their Reſpective Precincts, ſhall from time to time by Warrant under his and their Hands and Seals Authorize, ſuch perſon with the Aſſiſtance of the Conſtable or his Deputy, or ſuch other perſon as he or they ſhall think fit, who are hereby Required to be Aiding and Aſſiſting therein, in the Day time only, to ſearch for, and ſecure all and every ſuch Horſe and Horſes: And in Caſe of Oppoſition or Reſiſtance, to break open any Door, and bring ſuch Horſe or Horſes before him or them; And ſuch perſon being of the Proteſtant Religion, and making ſuch Diſcovery, paying or making Tender before ſuch Iuſtices,
+<pb n="14" facs="tcp:107359:11"/>
+Mayor, or other Chief Magiſtrate of any City or Town Corporate, of the Summ of Five Pounds Five Shillings to the Owner or Poſ<g ref="char:EOLhyphen"/>ſeſſor of ſuch Horſe, or to ſuch Iuſtice or Chief Magiſtrate in his or their Abſence; which the ſaid Iuſtice or Chief Magiſtrate are hereby Au<g ref="char:EOLhyphen"/>thorized to Receive for the uſe of ſuch Owner or Poſſeſſor; And that from and after ſuch payment, or Tender and Refuſal; The proper<g ref="char:EOLhyphen"/>ty of ſuch Horſe or Horſes for which ſuch Summ or Summs ſhall be Reſpectively Tendred or paid, ſhall by Authority of this preſent Act be Deém<g ref="char:EOLhyphen"/>ed and Adjudged to be Veſted in the Perſon making ſuch Diſcovery and Tender, as if ſuch Horſe and Horſes had beén bought and ſold in Market Overt; And the ſaid Iuſtices of the Peace, Mayor, Bayliff, or other Head Officer is, and are hereby Authorized and Required by Warrant under his and their Hands and Seals, to Cauſe ſuch Horſe and Horſes to be Delivered accordingly.</p>
+            <p>And be it further Enacted, That if any Per<g ref="char:EOLhyphen"/>ſon ſhall Conceal, or be Aiding or Aſſiſting in the Concealing any ſuch Horſe or Horſes belong<g ref="char:EOLhyphen"/>ing to any Papiſt or ſuſpected Papiſt Refuſing to take the Oaths and Subſcribe the Declara<g ref="char:EOLhyphen"/>tion aforeſaid, ſuch Perſon or Perſons being thereof duely Convicted by the Oaths of two or more Credible Witneſſes before any Iuſtice of the Peace of the County where ſuch Horſe or Horſes ſhall be Concealed ſhall be Committed to the Common Goal, by Warrant from the ſaid Iuſtice, there to remain without Bail or Main<g ref="char:EOLhyphen"/>prize by the ſpace of threé Months, and ſhall forfeit and loſe to His Majeſty and his Succeſſors treble the value of ſuch Horſe or Horſes; which va<g ref="char:EOLhyphen"/>lue
+<pb n="15" facs="tcp:107359:11"/>
+is to be Settled by the Iuſtices of the Peace in their General-Quarter-Seſſions of the Peace in the Reſpective Counties, who are hereby Au<g ref="char:EOLhyphen"/>thorized to Continue ſuch perſon in Priſon un<g ref="char:EOLhyphen"/>till due payment of ſuch Summ of Money to the Vſe of his Majeſty, his Heirs and Succeſ<g ref="char:EOLhyphen"/>ſors.</p>
+            <p>And it is hereby Declared, That Every Per<g ref="char:EOLhyphen"/>ſon ſhall be Deémed and taken to be a Papiſt within the meaning of this preſent Act, who ſhall Refuſe to take the Oaths, and Subſcribe the Declaration herein before-mentioned, when the ſame ſhall be Tendred to him by any Iuſtice or Iuſtices of the Peace; which ſaid Oaths and Declaration the ſaid Iuſtices of the Peace and Chief Magiſtrates are hereby Authorized and Required to Adminiſter if any ſuch perſon or perſons ſhall deny him or themſelves to be a Pa<g ref="char:EOLhyphen"/>piſt within the meaning of this Act; And if any ſuch perſon or perſons ſhall take the ſaid Oaths and Subſcribe the ſaid Declaration, the ſaid Iu<g ref="char:EOLhyphen"/>ſtice and Iuſtices of the Peace ſhall Certify under his hand his or their taking the ſaid Oaths, and Return the ſaid Declaration to the next Quarter-Seſſions to be held for the ſaid County, there to be Recorded, as in ſuch Caſes is Vſual.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any Iuſtice or Iuſtices of the Peace, Mayors, Soveraigns, Bayliffs or Chief Magiſtrates or Officers of any County or Town Corporate, Reſpectively, ſhall Neglect or Refuſe to Execute any the Powers or Autho<g ref="char:EOLhyphen"/>rities which he or they is or are Reſpectively Re<g ref="char:EOLhyphen"/>quired by this preſent Act to put in Execution, Every ſuch Iuſtice of the Peace, Mayor, So<g ref="char:EOLhyphen"/>veraign, Bayliff, or Chief Magiſtrate or Officer,
+<pb n="16" facs="tcp:107359:12"/>
+ſhall for Every ſuch Default or Offence Loſe and Forfeit the Summ of Fifty pounds, to be Re<g ref="char:EOLhyphen"/>covered in any of His Majeſties Courts of Re<g ref="char:EOLhyphen"/>cord, by Bill, Plaint, or Information, wherein no Eſſoyne, Protection, or Wager of Law ſhall be Allowed, nor more then one Imparlance granted; The one Moyety of ſuch Forfeiture to be to His Majeſty, His Heirs and Succeſſors; and the other Moyety to ſuch perſon as ſhall or will Sue for the ſame; And the ſaid Offend<g ref="char:EOLhyphen"/>ers ſhall be moreover, and are hereby Diſabled and made Incapable, from and after his being Convicted, to Act as Iuſtice of the Peace, May<g ref="char:EOLhyphen"/>or, Soveraign, Bayliff, or Chief Magiſtrate, or Officer in any County, City, or Town Corpo<g ref="char:EOLhyphen"/>rate in this Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
